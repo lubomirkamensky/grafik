@@ -7,7 +7,7 @@
 <html>
 	<head>
    		<title>Machine</title>
-   		<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+   		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="Author" content="Ing. Michal Bucek [bucek@timetree.info]">
 		<meta name="Copyright" content="TimeTree, s.r.o. [www.timetree.info]">
   	</head>

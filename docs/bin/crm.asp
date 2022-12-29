@@ -5,7 +5,7 @@
 <!--#include file="..\..\..\..\timetree\bin\asp\lib\UTILITYGate.py.asp"-->
 <html>
 	<head>
-	    <meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+	    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta http-equiv="Expires" content="-1">
 		<meta http-equiv="Cache-Control" content="no-cache">
 		<meta http-equiv="PRAGMA" content="NO-CACHE">
