@@ -1,0 +1,12 @@
+/* IMPORT SDILENYCH NASTAVENI ========================== */
+@import url("../shared/css/popup.css");
+/* ===================================================== */
+body {
+	background-color: #c0c0c1;
+}
+body div.image a img {
+	border: 0px solid #87888B;
+}
+body div.image div.text {
+	font-family: Verdana, "Geneva CE", lucida, sans-serif; font-size: 12px;
+}

@@ -1,0 +1,6 @@
+/* IMPORT SDILENYCH NASTAVENI ========================== */
+@import url("/css/default.css");
+/* ===================================================== */
+table.layout td.main div.content div.document {
+	background-image: url("../images/bg/main_odkazy.jpg");
+}
